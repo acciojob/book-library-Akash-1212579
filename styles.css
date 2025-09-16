@@ -5,6 +5,7 @@ body{
 .img-container{
 	margin-top:20px;
 	text-align:center;
+	background-color:rgb(119,119,119);
 }
 .book{
 	margin:30px;
